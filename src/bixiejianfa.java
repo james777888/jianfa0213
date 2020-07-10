@@ -3,5 +3,7 @@ public class bixiejianfa{
 		System.out.println("hello world");
 		System.out.println("hello github");
 	}
-	public
+	public void test(){
+		System.out.println("hello hello");
+	}
 }
